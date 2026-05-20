@@ -89,8 +89,8 @@ OAUTH_CLIENT_SECRET = None
 - Theme by [Christopher Thompson](https://github.com/breadchris)
 - Notification Sound by [Terrence Martin](https://soundcloud.com/tj-martin-composer)
 
---
 ##What I add on
+Template of AK26 platform
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/95fd7758-7015-4099-b85c-43053c9b04da" />
 
 
